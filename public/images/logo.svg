@@ -1,0 +1,13 @@
+<svg width="340" height="100" viewBox="0 0 340 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coração em traço -->
+  <path d="M40 40 
+           C40 30, 55 30, 55 40 
+           C55 50, 40 60, 40 70 
+           C40 60, 25 50, 25 40 
+           C25 30, 40 30, 40 40Z" fill="none" stroke="#FF3366" stroke-width="2.5"></path>
+
+  <!-- Texto branco com o "2" em rosa -->
+  <text x="80" y="60" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#ffffff">
+    Love<tspan fill="#FF3366">2</tspan>love
+  </text>
+</svg>
